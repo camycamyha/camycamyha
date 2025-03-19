@@ -2,8 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=dbacdb&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Camila+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
-Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Fatec e sou formada em Design de Moda.
-Estou estudando e me atualizando na área da tecnologia constantemente, pois adoro aprender e estou em busca da minha vaga dos sonhos!
+Sou estudante de Desenvolvimento de Software Multiplataformas na FATEC Votorantim e formada em Design de Moda. Tenho conhecimento em Flutter, IoT e Cloud Computing e estou aprimorando minhas habilidades em Front-End. Tenho interesse em desenvolvimento mobile, web, inteligência artificial e hardware. Minha experiência em diferentes áreas me permite ter uma visão criativa e adaptável, facilitando a aprendizagem e a busca por soluções eficientes. Além disso, minha vivência no atendimento ao público aprimorou minhas habilidades de comunicação, trabalho em equipe e resolução de problemas, qualidades essenciais em qualquer ambiente profissional.
 
 <h3 align="left">My Stack</h3>
 
