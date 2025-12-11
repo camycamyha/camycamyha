@@ -1,8 +1,43 @@
 ##
 
+
+# Olá! Eu sou a Camila Queiroz 🚀
+
+### ✨ Frontend Developer & UX/UI Designer (Foco em Soluções com Impacto)
+
+Sou estudante de Desenvolvimento de Software na FATEC, em transição de carreira, apaixonada por construir interfaces que são tanto funcionais quanto visualmente atraentes. O meu background em Design de Moda reforça a minha visão para a **empatia do utilizador (UX)** e o **design acessível**.
+
+Estou focada em transformar ideias em produtos digitais intuitivos e prontos para o mercado.
+
+---
+
+### 🛠️ Minha Stack (Tecnologias em Foco)
+
+| Categoria | Skills |
+| :--- | :--- |
+| **Front-End / Desenvolvimento** | React, TypeScript, Node.js, JavaScript, HTML5, CSS3. |
+| **Design de Interface / UX** | Figma, Adobe Illustrator, Adobe Photoshop, Prototipagem, Usabilidade. |
+| **Outras Tecnologias** | Flutter (Mobile), Git, SQL, IoT. |
+
+---
+
+### 🌟 Projetos em Destaque
+
+O meu trabalho demonstra a união entre design e código.
+
+* **KidCoin:** Meu projeto integrador atual. Liderança na conceção de UX/UI e desenvolvimento Front-End em **React/TypeScript**. (Ver Repositório Principal para Detalhes e Documentação)
+* **Lifeguard:** Integração de Mobile (Flutter) com Hardware (IoT/Arduino) para segurança pessoal.
+
+---
+
+### 🔗 Vamos Conectar-nos!
+
+* **LinkedIn:** [linkedin.com/in/camycamyha](https://linkedin.com/in/camycamyha)
+* **Email:** camycamyha@gmail.com
+* **Behance:** (O link será adicionado assim que publicar o seu primeiro projeto de UX!)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=dbacdb&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Camila+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
-Sou estudante de Desenvolvimento de Software Multiplataformas na FATEC Votorantim e formada em Design de Moda. Tenho conhecimento em Flutter, IoT e Cloud Computing e estou aprimorando minhas habilidades em Front-End. Tenho interesse em desenvolvimento mobile, web, inteligência artificial e hardware. Minha experiência em diferentes áreas me permite ter uma visão criativa e adaptável, facilitando a aprendizagem e a busca por soluções eficientes. Além disso, minha vivência no atendimento ao público aprimorou minhas habilidades de comunicação, trabalho em equipe e resolução de problemas, qualidades essenciais em qualquer ambiente profissional.
+
 
 <h3 align="left">My Stack</h3>
 
